@@ -1,0 +1,14 @@
+{
+    "titulo": "CALIFICAR CALLCENTER",
+    "archivo": "¡Suelta aquí el historial de conversaciones!",
+    "alertas": {
+        "error": "Tipo de archivo incorrecto!",
+        "exito": "Archivo cargado correctamente!"
+    },
+    "boton": "ENVIAR",
+    "cargando": "Cargando...",
+    "nombres": "Antonio González Restrepo",
+    "reporte": "Reporte",
+    "error_cadena": "Error subiendo el historial!",
+    "exito_cadena": "Historial aceptado!"
+}
